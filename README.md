@@ -84,17 +84,7 @@ jupyter notebook Stock_Movement_Analysis_Based_on_Social_Media_Sentiment.ipynb
    - Model Training
    - Evaluation
 
-## Project Structure
 
-```
-stock-sentiment-analysis/
-│
-├── Stock_Movement_Analysis_Based_on_Social_Media_Sentiment.ipynb  # Main notebook
-├── reddit_stock_data.csv  # Raw scraped data
-├── daily_stock_sentiment.csv  # Processed daily sentiment data
-├── requirements.txt  # Project dependencies
-└── README.md  # Project documentation
-```
 
 ## Limitations and Future Improvements
 

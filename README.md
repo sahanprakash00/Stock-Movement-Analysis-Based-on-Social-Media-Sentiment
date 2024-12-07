@@ -28,7 +28,7 @@ This project develops a machine learning model that predicts stock movements by 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-sentiment-analysis.git
+git clone https://github.com/sahanaprakash00/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment.git
 cd stock-sentiment-analysis
 ```
 
